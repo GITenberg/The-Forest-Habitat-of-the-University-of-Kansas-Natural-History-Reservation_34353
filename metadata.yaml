@@ -1,0 +1,34 @@
+_repo: The-Forest-Habitat-of-the-University-of-Kansas-Natural-History-Reservation_34353
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Fitch, Henry S. (Henry Sheldon)
+    birthdate: 1909
+    deathdate: 2009
+    gutenberg_agent_id: '36389'
+    url: http://www.gutenberg.org/2009/agents/36389
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Sheldon_Fitch
+  - agent_name: McGregor, Ronald L.
+    gutenberg_agent_id: '36971'
+    url: http://www.gutenberg.org/2009/agents/36971
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34353'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'University of Kansas. Natural History Reservation'
+- !lcc 'QH'
+- !lcsh 'Forest reserves -- Kansas'
+title: The Forest Habitat of the University of Kansas Natural History Reservation
+url: http://www.gutenberg.org/ebooks/34353
